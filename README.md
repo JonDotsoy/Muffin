@@ -14,12 +14,6 @@ The new web is more fast, agile and simple. Between new technology and new tende
 It for it that born **Muffin** a standard api to client that allow create a personal web as a service, and so enable ease the implementation your service.
 
 
-Usage
------
-
-This is a set of methods predefined to create an api. This repository provides a set of methods to **JavaScript** as interfaces with support of **ES6**.
-
-
 ### URL Reference
 
 > :warning: The URL Reference is recommended to developer, this **not** is a standard is only a recommendation the Muffin.
@@ -38,7 +32,3 @@ The Url Reference is a path to service. Is a good practice from control this ref
  6. `query=filter`: The service content can have configurations specific to call data. That often are defined in queries of parameters.
 
 
-### Initialize an API service
-
-```javascript
-```
